@@ -108,8 +108,6 @@ CalculateWaitingTime(at, bt, N);
 
 ### OUTPUT
 <img width="973" height="444" alt="image" src="https://github.com/user-attachments/assets/79dd6b3e-11c0-4605-8533-349d56fbf178" />
-
-### RESULT
 Thus the Python program to implement CPU Process Scheduling using a queue implemented and executed successfully.
 
 
